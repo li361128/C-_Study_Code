@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Staff_Management", "Staff_Management\Staff_Management.vcxproj", "{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Debug|x64.ActiveCfg = Debug|x64
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Debug|x64.Build.0 = Debug|x64
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Debug|x86.Build.0 = Debug|Win32
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Release|x64.ActiveCfg = Release|x64
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Release|x64.Build.0 = Release|x64
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Release|x86.ActiveCfg = Release|Win32
+		{DCB0E1D9-4AA0-4A9C-B36C-A7E34D8CB139}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0194FCC2-7712-4DC2-AD4F-50A2310ED6C4}
+	EndGlobalSection
+EndGlobal

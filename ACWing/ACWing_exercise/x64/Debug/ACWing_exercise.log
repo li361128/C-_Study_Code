@@ -1,0 +1,2 @@
+﻿源1.obj : error LNK2001: 无法解析的外部符号 a
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\x64\Debug\ACWing_exercise.exe : fatal error LNK1120: 1 个无法解析的外部命令
