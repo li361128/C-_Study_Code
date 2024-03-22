@@ -1,0 +1,30 @@
+﻿  speechManager.cpp
+D:\Visual Studio 2022\C++_Code\演讲比赛流程管理系统\演讲比赛流程管理系统\演讲比赛流程管理系统\speechManager.cpp(50,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visual Studio 2022\C++_Code\演讲比赛流程管理系统\演讲比赛流程管理系统\演讲比赛流程管理系统\speechManager.cpp(116,37): warning C4091: “”: 没有声明变量时忽略“std::multimap<double,int,std::greater<int>,std::allocator<std::pair<const double,int>>>”的左侧
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26): warning C4244:         ]
+  (编译源文件“speechManager.cpp”)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(37,26):
+  模板实例化上下文(最早的实例化上下文)为
+  	D:\Visual Studio 2022\C++_Code\演讲比赛流程管理系统\演讲比赛流程管理系统\演讲比赛流程管理系统\speechManager.cpp(137,16):
+  	查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+  	C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\numeric(46,17):
+  	查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+  
+  演讲比赛流程管理系统.cpp
+  正在生成代码...
+  演讲比赛流程管理系统.vcxproj -> D:\Visual Studio 2022\C++_Code\演讲比赛流程管理系统\演讲比赛流程管理系统\Debug\演讲比赛流程管理系统.exe

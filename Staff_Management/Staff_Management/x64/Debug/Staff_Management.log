@@ -1,0 +1,4 @@
+﻿  workerManager.cpp
+D:\Visual Studio 2022\C++_Code\Staff_Management\Staff_Management\workerManager.cpp(311,4): warning C4102: “case1”: 未引用的标签
+D:\Visual Studio 2022\C++_Code\Staff_Management\Staff_Management\workerManager.cpp(314,4): warning C4102: “case2”: 未引用的标签
+  Staff_Management.vcxproj -> D:\Visual Studio 2022\C++_Code\Staff_Management\x64\Debug\Staff_Management.exe

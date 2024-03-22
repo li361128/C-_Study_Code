@@ -1,0 +1,2 @@
+D:\Visual Studio 2022\C_Code\C++_study\Debug\C++_study.exe
+D:\Visual Studio 2022\C++_Code\C++_study\Debug\C++_study.exe

@@ -1,0 +1,21 @@
+﻿  1571. 完美序列.cpp
+  3376. 成绩排序2.cpp
+  4176. 愤怒的牛.cpp
+  4720. 字符串.cpp
+  4782. 第k个数.cpp
+  68. 0到n-1中缺失的数字.cpp
+  Function.cpp
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\Function.cpp(7,44): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\Function.cpp(22,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\Function.cpp(53,23): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\Function.cpp(62,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  3601. 成绩排序.cpp
+  519.跳石头.cpp
+  源.cpp
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\源.cpp(111,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\源.cpp(114,23): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 167 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ACWing_exercise.vcxproj -> D:\Visual Studio 2022\C++_Code\ACWing\ACWing_exercise\x64\Release\ACWing_exercise.exe
